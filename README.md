@@ -1,14 +1,10 @@
 # APLICACIONES WEB
 
-Septiembre, Octubre 1 y 2
-
-Octubre, Noviembre 2
-
-Noviembre, Diciembre  6 y 7
-
-Enero, Febrero 3
-
-Febrero, Marzo 4 y 5
+- Septiembre, Octubre 1 y 2
+- Octubre, Noviembre 2
+- Noviembre, Diciembre  6 y 7
+- Enero, Febrero 3
+- Febrero, Marzo 4 y 5
 
 1-Abril, Mayo, Junio, prácticas empresa
 
